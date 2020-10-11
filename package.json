@@ -7,15 +7,4 @@
     "start": "node index.js",
     "build": "npm install",
     "heroku-postbuild": "npm install"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shaharmichaeli/Color-Game.git"
-  },
-  "author": "Shahar Michaeli The King",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shaharmichaeli/Color-Game/issues"
-  },
-  "homepage": "https://github.com/shaharmichaeli/Color-Game"
-}
+  }
