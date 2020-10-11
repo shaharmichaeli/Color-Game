@@ -4,9 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "npm install && node index.js",
     "build": "npm install",
     "heroku-postbuild": "npm install"
   }
-
 }
