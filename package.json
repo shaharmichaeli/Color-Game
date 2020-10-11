@@ -4,8 +4,11 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm install && node index.js",
+    "start": "node index.js",
     "build": "npm install",
     "heroku-postbuild": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
